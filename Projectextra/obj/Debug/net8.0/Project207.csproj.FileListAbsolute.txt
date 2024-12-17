@@ -1,0 +1,14 @@
+c:\Users\ftyy2\scripts\C#scripts\Project207\bin\Debug\net8.0\Project207.exe
+c:\Users\ftyy2\scripts\C#scripts\Project207\bin\Debug\net8.0\Project207.deps.json
+c:\Users\ftyy2\scripts\C#scripts\Project207\bin\Debug\net8.0\Project207.runtimeconfig.json
+c:\Users\ftyy2\scripts\C#scripts\Project207\bin\Debug\net8.0\Project207.dll
+c:\Users\ftyy2\scripts\C#scripts\Project207\bin\Debug\net8.0\Project207.pdb
+c:\Users\ftyy2\scripts\C#scripts\Project207\obj\Debug\net8.0\Project207.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ftyy2\scripts\C#scripts\Project207\obj\Debug\net8.0\Project207.AssemblyInfoInputs.cache
+c:\Users\ftyy2\scripts\C#scripts\Project207\obj\Debug\net8.0\Project207.AssemblyInfo.cs
+c:\Users\ftyy2\scripts\C#scripts\Project207\obj\Debug\net8.0\Project207.csproj.CoreCompileInputs.cache
+c:\Users\ftyy2\scripts\C#scripts\Project207\obj\Debug\net8.0\Project207.dll
+c:\Users\ftyy2\scripts\C#scripts\Project207\obj\Debug\net8.0\refint\Project207.dll
+c:\Users\ftyy2\scripts\C#scripts\Project207\obj\Debug\net8.0\Project207.pdb
+c:\Users\ftyy2\scripts\C#scripts\Project207\obj\Debug\net8.0\Project207.genruntimeconfig.cache
+c:\Users\ftyy2\scripts\C#scripts\Project207\obj\Debug\net8.0\ref\Project207.dll
